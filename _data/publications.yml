@@ -1,22 +1,32 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+  - title: Anisotropic and frame dependent chaos of suspended strings from a dynamical holographic QCD model with magnetic field
+    authors: <strong>Bhaskar Shukla</strong>, David Dudal, Subhash Mahapatra
+    conference_short: JHEP
+    conference: Journal of High Energy Physics <strong>(JHEP)</strong>, 2023.
+    pdf: https://link.springer.com/content/pdf/10.1007/JHEP06(2023)178.pdf
+    code:
+    bibtex:
+    image: ./assets/img/jhep_2023.png
+    notes:
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: Entropic force and real-time dynamics of holographic quarkonium in a magnetic field
+    authors: Siddhi Swarupa Jena, <strong>Bhaskar Shukla</strong>, David Dudal, Subhash Mahapatra
+    conference_short: PRD
+    conference: Physical Review D <strong>(PRD)</strong>, 2022.
+    pdf: https://journals.aps.org/prd/pdf/10.1103/PhysRevD.105.086011
+    code:
+    page:
+    bibtex:
+    notes:
+    image: ./assets/img/prd_2022.png
+
+  - title: Exact topological charged hairy black holes in AdS space in d dimensions
+    authors: Subhash Mahapatra, Supragyan Priyadarshinee, Gosala Narasimha Reddy, <strong>Bhaskar Shukla</strong>
+    conference_short: PRD
+    conference: Physical Review D <strong>(PRD)</strong>, 2020.
+    pdf: https://journals.aps.org/prd/pdf/10.1103/PhysRevD.102.024042
+    code:
+    bibtex:
+    image: ./assets/img/prd_2020.png
+    notes:
