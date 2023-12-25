@@ -14,9 +14,9 @@ I am a Senior Research Fellow at Department of Physics and Astronomy, National I
 
 ## News
 
-- **[Dec. 2023]** I will be attending the The 18th Kavli Asian Winter School on Strings, Particles and Cosmology in Japan!
+- **[Dec. 2023]** I participated in the The 18th Kavli Asian Winter School on Strings, Particles and Cosmology in Kyoto University, Japan!
 - **[Oct. 2023]** I participated in the 2nd Workshop on dynamics of QCD Matter held at NISER, Bhubaneswar!
 - **[June. 2023]** Our paper about QCD Chaos is accepted to Journal of High Energy Physics.
-- **[Feb. 2023]** Parallel talk presented at IMHEP-II organised by IOP, Bhubaneswar.
+- **[Feb. 2023]** I presented a Parallel talk at IMHEP-II organised by IOP, Bhubaneswar.
 
 {% include_relative _includes/publications.md %}
