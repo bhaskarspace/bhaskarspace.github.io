@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Senior Research Fellow at Department of Physics and Astronomy, National Institute of Technology, Rourkela, Odisha currently pursuing my PhD in Theoretical Physics. I am working in the field of String Theory focusing mainly on the application of the AdS/CFT Correspondence (Holography) to Quantum Chromodynamics (QCD). In my recent work I am studying QCD chaos by making use of a dynamical holographic model. I am also investigating the black hole phase transition in AdS space using Lyapunov exponents which are primarily the diagnostic tools for chaos, thereby trying to bridge two different areas in Physics, Chaos and Black Hole Thermodynamics.
+I am a Senior Research Fellow at the Department of Physics and Astronomy, National Institute of Technology, Rourkela, Odisha, currently pursuing my PhD in Theoretical Physics. I am working in the field of String Theory, focusing mainly on the application of the AdS/CFT Correspondence (Holography) to Quantum Chromodynamics (QCD). In my recent work I am studying QCD chaos by making use of a dynamical holographic model. I am also investigating the black hole phase transition in AdS space using Lyapunov exponents, which are primarily the diagnostic tools for chaos, thereby trying to bridge two different areas in Physics: Chaos and Black Hole Thermodynamics.
 
 ## Research Interests
 
@@ -14,9 +14,10 @@ I am a Senior Research Fellow at Department of Physics and Astronomy, National I
 
 ## News
 
-- **[Dec. 2023]** I participated in the The 18th Kavli Asian Winter School on Strings, Particles and Cosmology in Kyoto University, Japan!
+- **[Jun. 2024]** I will be participating in the “Bridging Physics and Mathematics of Quantum Many-Body Chaos” workshop at the University of Helsinki, Finland!
+- **[Dec. 2023]** I participated in the 18th Kavli Asian Winter School on Strings, Particles and Cosmology at Kyoto University, Japan!
 - **[Oct. 2023]** I participated in the 2nd Workshop on dynamics of QCD Matter held at NISER, Bhubaneswar!
-- **[June. 2023]** Our paper about QCD Chaos is accepted to Journal of High Energy Physics.
+- **[Jun. 2023]** Our paper about QCD Chaos has been accepted by the Journal of High Energy Physics.
 - **[Feb. 2023]** I presented a Parallel talk at IMHEP-II organised by IOP, Bhubaneswar.
 
 {% include_relative _includes/publications.md %}
