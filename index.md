@@ -14,7 +14,8 @@ I am a Senior Research Fellow at the Department of Physics and Astronomy, Nation
 
 ## News
 
-- **[Jun. 2024]** I will be participating in the [“Bridging Physics and Mathematics of Quantum Many-Body Chaos”](https://www.helsinki.fi/en/conferences/bridging-physics-and-mathematics-quantum-many-body-chaos) workshop at the University of Helsinki, Finland!
+- **[Jul. 2024]** I participated in the [“8th Edition of Student Talks on Trending Topics in Theory (ST4)”](https://st4physics.wixsite.com/home) workshop at IIT Bombay, India!
+- **[Jun. 2024]** I participated in the [“Bridging Physics and Mathematics of Quantum Many-Body Chaos”](https://www.helsinki.fi/en/conferences/bridging-physics-and-mathematics-quantum-many-body-chaos) workshop at the University of Helsinki, Finland!
 - **[Dec. 2023]** I participated in the [18th Kavli Asian Winter School on Strings, Particles and Cosmology](https://www2.yukawa.kyoto-u.ac.jp/~kaws18th/index.php) at Kyoto University, Japan!
 - **[Oct. 2023]** I participated in the [2nd Workshop on dynamics of QCD Matter](https://www.niser.ac.in/events/dynamic-qcd2/) held at NISER, Bhubaneswar!
 - **[Jun. 2023]** Our paper about [QCD Chaos](https://link.springer.com/article/10.1007/JHEP06(2023)178) has been accepted by the Journal of High Energy Physics.
