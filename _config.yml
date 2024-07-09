@@ -21,7 +21,7 @@ youtube: https://www.youtube.com/channel/UCjK48O6QCi5YkSTHpj8MOVQ
 
 # Images (e.g., your profile picture and your website's favicon)
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively.
-avatar: ./assets/img/profile1.jpg
+avatar: ./assets/img/profile2.jpg
 favicon: ./assets/img/favicon.png
 favicon_dark: ./assets/img/favicon-dark.png
 
