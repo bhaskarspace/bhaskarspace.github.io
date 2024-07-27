@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Senior Research Fellow at the Department of Physics and Astronomy, National Institute of Technology, Rourkela, Odisha, currently pursuing my PhD in Theoretical Physics. I am working in the field of String Theory, focusing mainly on the application of the AdS/CFT Correspondence (Holography) to Quantum Chromodynamics (QCD). In my recent work I am studying QCD chaos by making use of a dynamical holographic model. I am also investigating the black hole phase transition in AdS space using Lyapunov exponents, which are primarily the diagnostic tools for chaos, thereby trying to bridge two different areas in Physics: Chaos and Black Hole Thermodynamics.
+I am a Senior Research Fellow at the Department of Physics and Astronomy, National Institute of Technology, Rourkela, Odisha, currently pursuing my PhD in Theoretical Physics. I am working in String Theory, focusing mainly on applying the AdS/CFT Correspondence (Holography) to Quantum Chromodynamics (QCD). In my recent work, I studied QCD chaos using a dynamical holographic model. I am also investigating the black hole phase transition in AdS space using Lyapunov exponents, primarily the diagnostic tools for chaos, thereby trying to bridge two areas in Physics: Chaos and Black Hole Thermodynamics.
 
 ## Research Interests
 
@@ -14,6 +14,7 @@ I am a Senior Research Fellow at the Department of Physics and Astronomy, Nation
 
 ## News
 
+- **[Jul. 2024]** Our paper about [Interplay of Lyapunov exponents and AdS Black hole phase transition](https://doi.org/10.1103/PhysRevD.110.024068) has been published in PRD.
 - **[Jul. 2024]** I participated in the [“8th Edition of Student Talks on Trending Topics in Theory (ST4)”](https://st4physics.wixsite.com/home) workshop at IIT Bombay, India!
 - **[Jun. 2024]** I participated in the [“Bridging Physics and Mathematics of Quantum Many-Body Chaos”](https://www.helsinki.fi/en/conferences/bridging-physics-and-mathematics-quantum-many-body-chaos) workshop at the University of Helsinki, Finland!
 - **[Dec. 2023]** I participated in the [18th Kavli Asian Winter School on Strings, Particles and Cosmology](https://www2.yukawa.kyoto-u.ac.jp/~kaws18th/index.php) at Kyoto University, Japan!
