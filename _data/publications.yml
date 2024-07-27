@@ -1,5 +1,15 @@
 main:
 
+  - title: Interplay between the Lyapunov exponents and phase transitions of charged AdS black holes
+    authors: <strong>Bhaskar Shukla</strong>, Pranaya Pratik Das, David Dudal, Subhash Mahapatra
+    conference_short: PRD
+    conference: Physical Review D <strong>(PRD)</strong>, 2024.
+    pdf: https://journals.aps.org/prd/pdf/10.1103/PhysRevD.110.024068
+    code:
+    bibtex:
+    image: ./assets/img/prd_2024.png
+    notes:
+
   - title: Anisotropic and frame dependent chaos of suspended strings from a dynamical holographic QCD model with magnetic field
     authors: <strong>Bhaskar Shukla</strong>, David Dudal, Subhash Mahapatra
     conference_short: JHEP
