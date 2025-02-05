@@ -14,8 +14,8 @@ I am a Senior Research Fellow at the Department of Physics and Astronomy, Nation
 
 ## News
 
-- **[Jan. 2025]** I am going to participate in the [“Strings Conference, 2025”](https://nyuad.nyu.edu/en/academics/divisions/science/strings-conference-2025-abu-dhabi.html) at NYU Abu Dhabi, UAE!
-- **[Dec. 2024]** I am going to participate in the [“National Strings Meeting, 2024”](https://iitrpr.ac.in/nsm/) at IIT Ropar, India!
+- **[Jan. 2025]** I participated in the [“Strings Conference, 2025”](https://nyuad.nyu.edu/en/academics/divisions/science/strings-conference-2025-abu-dhabi.html) at NYU Abu Dhabi, UAE!
+- **[Dec. 2024]** I participated in the [“National Strings Meeting, 2024”](https://iitrpr.ac.in/nsm/) at IIT Ropar, India!
 - **[Jul. 2024]** Our paper about [Interplay of Lyapunov exponents and AdS Black hole phase transition](https://doi.org/10.1103/PhysRevD.110.024068) has been published in PRD.
 - **[Jul. 2024]** I participated in the [“8th Edition of Student Talks on Trending Topics in Theory (ST4)”](https://st4physics.wixsite.com/home) workshop at IIT Bombay, India!
 - **[Jun. 2024]** I participated in the [“Bridging Physics and Mathematics of Quantum Many-Body Chaos”](https://www.helsinki.fi/en/conferences/bridging-physics-and-mathematics-quantum-many-body-chaos) workshop at the University of Helsinki, Finland!
