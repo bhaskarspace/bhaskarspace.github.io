@@ -14,6 +14,9 @@ I am a Senior Research Fellow at the Department of Physics and Astronomy, Nation
 
 ## News
 
+- **[May. 2025]** I will be participating in the [“ALPSII Summer School 2025”](https://indico.global/event/9641/) at Les Diablerets, Switzerland!
+- **[May. 2025]** Our paper about [Holographic QCD chaos](https://doi.org/10.1103/PhysRevD.111.106002) has been published in PRD.
+- **[Mar. 2025]** Our paper about [Classical and quantum chaos of closed strings](https://doi.org/10.1103/PhysRevD.111.066019) has been published in PRD.
 - **[Jan. 2025]** I participated in the [“Strings Conference, 2025”](https://nyuad.nyu.edu/en/academics/divisions/science/strings-conference-2025-abu-dhabi.html) at NYU Abu Dhabi, UAE!
 - **[Dec. 2024]** I participated in the [“National Strings Meeting, 2024”](https://iitrpr.ac.in/nsm/) at IIT Ropar, India!
 - **[Jul. 2024]** Our paper about [Interplay of Lyapunov exponents and AdS Black hole phase transition](https://doi.org/10.1103/PhysRevD.110.024068) has been published in PRD.
