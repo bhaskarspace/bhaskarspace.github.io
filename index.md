@@ -4,13 +4,14 @@ layout: homepage
 
 ## About Me
 
-I am a Senior Research Fellow at the Department of Physics and Astronomy, National Institute of Technology, Rourkela, Odisha, currently pursuing my PhD in Theoretical Physics. I am working in String Theory, focusing mainly on applying the AdS/CFT Correspondence (Holography) to Quantum Chromodynamics (QCD). In my recent work, I studied QCD chaos using a dynamical holographic model. I am also investigating the black hole phase transition in AdS space using Lyapunov exponents, primarily the diagnostic tools for chaos, thereby trying to bridge two areas in Physics: Chaos and Black Hole Thermodynamics.
+I am a Senior Research Fellow in the Department of Physics and Astronomy at NIT Rourkela, where I am about to complete my PhD in Theoretical Physics. My research blends string-theoretic holography, nonlinear dynamics, and black-hole thermodynamics to uncover signatures of chaos in strongly coupled systems. I have examined how magnetic fields and chemical potentials affect chaos in holographic QCD and used chaos-based diagnostics to probe phase transitions in AdS black holes. More recently, I developed a charged soliton-based approach to study both classical and quantum chaos in confined QCD, and I am beginning to investigate the subtle role of quantum scars in strongly interacting field theories.
 
 ## Research Interests
 
 - **General Relativity:** Black Hole Thermodynamics
 - **String Theory:** AdS/CFT Correspondence
 - **Chaos:** Holographic and Quantum Chaos
+- **Condensed Matter:** Quantum Many Body Scars
 
 ## News
 
