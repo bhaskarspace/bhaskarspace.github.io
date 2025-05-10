@@ -1,5 +1,25 @@
 main:
 
+  - title: Interplay of magnetic field and chemical potential induced anisotropy and frame dependent chaos of a \( Q\bar{Q} \) pair in holographic QCD
+    authors: <strong>Bhaskar Shukla</strong>, Jasper Nongmaithem, David Dudal, Subhash Mahapatra
+    conference_short: PRD
+    conference: Physical Review D <strong>(PRD)</strong>, 2025.
+    pdf: https://journals.aps.org/prd/pdf/10.1103/PhysRevD.111.106002
+    code:
+    bibtex:
+    image: ./assets/img/prd_2025b.png
+    notes:
+    
+  - title: Classical and quantum chaos of closed strings on a charged confining holographic background
+    authors: <strong>Bhaskar Shukla</strong>, Owais Riyaz, Subhash Mahapatra
+    conference_short: PRD
+    conference: Physical Review D <strong>(PRD)</strong>, 2025.
+    pdf: https://journals.aps.org/prd/pdf/10.1103/PhysRevD.111.066019
+    code:
+    bibtex:
+    image: ./assets/img/prd_2025a.png
+    notes:
+    
   - title: Interplay between the Lyapunov exponents and phase transitions of charged AdS black holes
     authors: <strong>Bhaskar Shukla</strong>, Pranaya Pratik Das, David Dudal, Subhash Mahapatra
     conference_short: PRD
