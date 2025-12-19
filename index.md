@@ -15,7 +15,8 @@ I am a Senior Research Fellow in the Department of Physics and Astronomy at NIT 
 
 ## News
 
-- **[May. 2025]** I will be participating in the [“ALPSII Summer School 2025”](https://indico.global/event/9641/) at Les Diablerets, Switzerland!
+- **[Dec. 2025]** I participated in the [“Indian Strings Meeting, 2025”](https://indico.global/event/15522/) at the Indian Institute of Technology (IIT) Bhubaneswar and the National Institute of Science Education and Research (NISER), Bhubaneswar, India!
+- **[May. 2025]** I participated in the [“ALPSII Summer School 2025”](https://indico.global/event/9641/) at Les Diablerets, Switzerland!
 - **[May. 2025]** Our paper about [Holographic QCD chaos](https://doi.org/10.1103/PhysRevD.111.106002) has been published in PRD.
 - **[Mar. 2025]** Our paper about [Classical and quantum chaos of closed strings](https://doi.org/10.1103/PhysRevD.111.066019) has been published in PRD.
 - **[Jan. 2025]** I participated in the [“Strings Conference, 2025”](https://nyuad.nyu.edu/en/academics/divisions/science/strings-conference-2025-abu-dhabi.html) at NYU Abu Dhabi, UAE!
