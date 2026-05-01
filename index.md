@@ -15,6 +15,8 @@ I am a Senior Research Fellow in the Department of Physics and Astronomy at NIT 
 
 ## News
 
+- **[Jun. 2026]** I participated in the [“34th Nordic Network Meeting on Strings, Fields and Branes”](https://radstefnur.hi.is/event/2/) at the University of Iceland, Reykjavík, Iceland!
+- **[May. 2026]** I participated in the [“Recent Progress in Quantum Chaos”](https://sites.google.com/rrimail.rri.res.in/quantum-chaos) mini-school at Raman Research Institute, Bengaluru!
 - **[Dec. 2025]** I participated in the [“Indian Strings Meeting, 2025”](https://indico.global/event/15522/) at the Indian Institute of Technology (IIT) Bhubaneswar and the National Institute of Science Education and Research (NISER), Bhubaneswar, India!
 - **[May. 2025]** I participated in the [“ALPSII Summer School 2025”](https://indico.global/event/9641/) at Les Diablerets, Switzerland!
 - **[May. 2025]** Our paper about [Holographic QCD chaos](https://doi.org/10.1103/PhysRevD.111.106002) has been published in PRD.
