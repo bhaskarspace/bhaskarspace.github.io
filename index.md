@@ -15,7 +15,7 @@ I finished my PhD from the Department of Physics and Astronomy at NIT Rourkela i
 
 ## News
 
-- **[Jul. 2024]** I delivered a set of lectures on Chaos theory in the [“10th Edition of Student Talks on Trending Topics in Theory (ST4)”](https://sites.google.com/view/st4-2026/home) workshop at the Chennai Mathematical Institute, India!
+- **[Jul. 2026]** I delivered a set of lectures on Chaos theory in the [“10th Edition of Student Talks on Trending Topics in Theory (ST4)”](https://sites.google.com/view/st4-2026/home) workshop at the Chennai Mathematical Institute, India!
 - **[Jun. 2026]** I participated in the [“34th Nordic Network Meeting on Strings, Fields and Branes”](https://radstefnur.hi.is/event/2/) at the University of Iceland, Reykjavík, Iceland!
 - **[May. 2026]** I participated in the [“Recent Progress in Quantum Chaos”](https://sites.google.com/rrimail.rri.res.in/quantum-chaos) mini-school at Raman Research Institute, Bengaluru!
 - **[Dec. 2025]** I participated in the [“Indian Strings Meeting, 2025”](https://indico.global/event/15522/) at the Indian Institute of Technology (IIT) Bhubaneswar and the National Institute of Science Education and Research (NISER), Bhubaneswar, India!
